@@ -1,0 +1,8 @@
+print("Hello, World!")
+
+# To push to Git repo, use the following commands:
+
+git add .
+git commit -m "Initial commit"
+git remote add GITT-RENAME https://github.com/your-username/your-repo-name.git
+git push -u GITT-RENAME main
